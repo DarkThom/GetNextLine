@@ -1,2 +1,2 @@
 # GetNextLine
-Le but de ce projet était de créer une fonction permattant de récupérer la première ligne d'un fichier en fonction du file descriptor passé en paramètre par l'utilisateur. L'utilisation d'une macro READ_SIZE a pour but de permettre à l'utilisateur de modifier la taille du read à sa convenance.
+The goal of this project was to create a function which allows recovering the first line’s file according to the file descriptor passed in parameter by the user. The use of READ_SIZE macro intended to allow the user to change the size of read the way he wants.
